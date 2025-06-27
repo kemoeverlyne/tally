@@ -1,6 +1,6 @@
 # Tally Assistant – Fullstack AI Chat App
 
-A modern, fullstack assistant chat application built for the Nexa Consulting technical challenge. Features a beautiful React (TypeScript, MUI) frontend, FastAPI backend, and MongoDB for persistent conversation history.
+A modern, fullstack assistant chat application. Features a beautiful React (TypeScript, MUI) frontend, FastAPI backend, and MongoDB for persistent conversation history.
 
 ---
 
@@ -75,6 +75,6 @@ See `INSTRUCTIONS.md` for the original technical challenge brief.
 
 ---
 
-© 2024 Tally Assistant. All rights reserved. 
+© 2025 Tally Assistant. All rights reserved. 
 
 
